@@ -1,0 +1,802 @@
+[
+    { 
+        "pregunta" : "Un home de 19 anos é remitido a sua consulta por niveles baixos de testosterona total. Na exploración física destaca: Talla: 155 cm, IMC: 24 kg/m2, fisura palatina, hipoacusia, hiposmia, ausencia de vello púbico, micropene e testes de 5 ml en bolsa escrotal. O doente nega outros antecedentes personais. Vostede solicita unha RNM hipotálamo-hipofisaria que é informada como normal. Entre as que se citan, ¿cál das seguintes afirmación é falsa?" ,
+        "respuesta" : "Probablemente presente hiperprolactinemia",
+        "incorrecta1" : "Probablemente as gonadotrofinas hipofisarias estén baixas",
+        "incorrecta2" : "Sería recomendable unha consulta oftalmolóxica",
+        "incorrecta3" : "Debería solicitar ecografia abdominal",
+        "incorrecta4" : "Debería solicitar secuenciación do xen KAL1"      
+    },
+    {
+        "pregunta" : "En relación co déficit de GH, ¿cál das seguintes aseveracións é incorrecta?" ,
+        "respuesta" : "O tratamento con somatotropina humana recombinante nunca está indicado en adultos",
+        "incorrecta1" : "Pode aparecer tanto en nenos como en adultos",
+        "incorrecta2" : "Pode incrementar o risco de fracturas" ,
+        "incorrecta3" : "A determinación de GH basal non é útil pra o diagnóstico ",
+        "incorrecta4" : "Un pico de GH menor de 3 ng/ml tras un test de hipoglucemia insulínica é diagnóstico en adultos."
+    },
+    {
+        "pregunta" : "En relación cas masas selares:" , 
+        "respuesta" : "Todas son correctas",
+        "incorrecta1" : "Poden ser non funcionantes" ,
+        "incorrecta2" : "Poden atoparse incidentalmente nunha proba de imaxe ",
+        "incorrecta3" : "Aos microadenomas non funcionantes débeselles facer inicialmente seguimento con RNM ao cabo dun ano.",
+        "incorrecta4" : " A afectación da vía óptica suxire invasividade"
+    },
+    {
+        "pregunta" : "En relación cos tumores hipofisarios agresivos, é FALSO que: ",
+        "respuesta" : "Adoiten presentar un Ki-67 menor do 3% ",
+        "incorrecta1" : "Podan ser non funcionantes",
+        "incorrecta2" : "Adoiten responder mal a múltiples liñas de tratamento",
+        "incorrecta3" : "A presencia de metástasis defina ao carcinoma hipofisario",
+        "incorrecta4" : "A cirurxía transesfenoidal endoscópica poda inducir unha SIADH."
+    },
+    {
+        "pregunta" : " Unha muller de 26 anos consulta por amenorrea de 2 anos de evolución. Na exploración física só destaca galactorrea á expresión. Non toma ningunha medicación nin consume sustancias ilegais. Na analítica que vostede solicita presenta unha PRL: tempo -30 min: 160 ng/mL, tempo 0 min: 153 ng/mL, (RN:2-29 ng/mL), unha TSH de 1.67 mIU/L (RN: 0.5-5.0 mIU/L), un cortisol plasmático de 14 mcg/dL (RN: 5 -25 mcg/dL). A RNM de hipófisis tras gadolinio é informada de lesión hipocaptante de 9mm na parte dereita da hipófisis. ¿Cál das que se citan é a resposta correcta?" ,
+        "respuesta" : " Iniciaría tratamento con cabergolina",
+        "incorrecta1" : "A remitiría a neurocirurxía pra hipofisectomía por vía transesfenoidal endoscópica",
+        "incorrecta2" : "Excluiría a presencia de macroprolactinemia ",
+        "incorrecta3" : "Solicitaría unha campimetría ",
+        "incorrecta4" : "A elevación de prolactina é debida ao efecto Hook, polo que se tratara dun adenoma non funcionante"
+    },
+    {
+        "pregunta" : "Unha muller de 18 anos consultou ao seu médico de cabeceira porque tiña ciclos menstruais de 35-40 días. Éste solicitou PRL (38 ng/dL) e TSH (2.0 MIU/L), motivo polo cal a deriva a Endocrinoloxía para reavaliación e tratamento. Cando vostede a atende a muller está asintomática e a exploración física é normal. ¿Cál das que se citan é a actitude correcta? " ,
+        "respuesta" : "Solicitar prolactina en 2 tempos (-30 e 0 min)",
+        "incorrecta1" : "Solicitar unha RNM de hipófisis",
+        "incorrecta2" : "Iniciar tratamento con cabergolina para normalizar os cliclos menstruais",
+        "incorrecta3" : "“a” e “b” son correctas",
+        "incorrecta4" : "A debe dar de de alta porque a elevación da prolactina non ten significación clínica"
+    },
+    {
+        "pregunta" : "Entre os que se citan, ¿cál é a causa máis frecuente de acromegalia? ",
+        "respuesta" : "Adenoma hipofisario aillado esporádico",
+        "incorrecta1" : "Síndrome de McCune-Albrigth",
+        "incorrecta2" : "Carcinoma hipofisario",
+        "incorrecta3" : "FIPA",
+        "incorrecta4" : "Acroxigantismo familiar ligado ao X"
+    },
+    {
+        "pregunta" : "Respecto a acromegalia é FALSO que:",
+        "respuesta" : " O test de supresión de GH tras SOG sexa o test de primeira elección pra o diagnóstico.",
+        "incorrecta1" : "Os valores basais de GH carzcan de interés no diagnóstico.",
+        "incorrecta2" : "O valor de IGF1 sexa o mellor test de diagnóstico.",
+        "incorrecta3" : "Un dos criterios de control durante o tratamento sexa un valor de IGF1 normal.",
+        "incorrecta4" : "O pegvisomant sexa un antagonista do receptor da GH "
+    },
+    {
+        "pregunta" : "Unha muller de 65 anos é remitida a sua consulta por ter obxetivado nunha TC abdominal ambas suprarrenais aumentadas de tamaño e de contornos irregulares. A doente presenta un fenotipo normal, ten un IMC de 21 kg/ m?, e refire astenia e decaimento. Entre os seus antecedentes personals destaca depresión dende, hai unha década, a seguimento por Psiquiatría. Está a tratamento con omeprazol, trazodona, quetiapina e alprazolam. Vostede solicita as seguintes probas: Cortisol plasmático as 8:00 a.m. :43 mcg/dL [RN: 5-25], ACTH 32 pg/mL (RN: 6-76], Cortisol libre urinario: 146 mcg/24 horas [RN: 21-292], Test DXM 1 mg: 2.4 mcg/dL, Cortisol plasmático as 23 horas: 1mcg/dL. Con estos datos, ¿cál das seguintes hipótesis diagnósticas parécelle máis plausible?",
+        "respuesta" : "A doente probablemente teña un pseudocushing",
+        "incorrecta1" : "A doente probablemente teña unha síndrome de Cushing ACTH dependente",
+        "incorrecta2" : "A doente probablemente teña unha síndrome de Cushing non-ACTH dependente",
+        "incorrecta3" : "Adoente probablemente teña unha síndrome de Cushing por hiperplasia macronodular bilateral ",
+        "incorrecta4" : "A doente probablemente teña unha síndrome de Cushing non-ACTH dependente e Adoente probablemente teña unha síndrome de Cushing por hiperplasia macronodular bilateral son correctas"
+    },
+    {
+        "pregunta" : "Respecto ao tratamento médico da síndrome de Cushing é FALSO que:",
+        "respuesta" : "O metirapona poda inducir xinecomastia ",
+        "incorrecta1" : "O ketoconazol inhiba a esteroidexénese",
+        "incorrecta2" : "Ametirapona poda aumentar os andróxenos ",
+        "incorrecta3" : "A metirapona bloquee o paso de 11-deoxicortisol a cortisol ",
+        "incorrecta4" : "O pasireotide poda empregarse na enfermidade de Cushing "
+    },
+    {
+        "pregunta" : "A síndrome poliglandular autoinmune tipo 1 se define como: ",
+        "respuesta"  : "Todas son falsas ",
+        "incorrecta1" : "Insuficiencia suprarrenal, hipoparatiroidismo primario e enfermidade de Graves ",
+        "incorrecta2" : "Insuficiencia suprarrenal central, hiperparatiroidismo primario e candidiasis mucocutánea crónica ",
+        "incorrecta3" : "Enfermidade de Addison e diabetes mellitus tipo 1",
+        "incorrecta4" : "Enfermidade de Addison, tiroidite de Hashimoto e diabetes mellitus tipo 1 "
+    },
+    {
+        "pregunta" : "¿Cál dos que se citan é o síntoma/signo máis frecuente na insuficiencia suprarrenal?",
+        "respuesta" : "Astenia",
+        "incorrecta1" : "Hiperpigmentación",
+        "incorrecta2" : "Hipotensión ortostática ",
+        "incorrecta3" : " Hiponatremia ",
+        "incorrecta4" : "Vómitos"
+    },
+    {
+        "pregunta" : "No tratamento dunha crise suprarrenal, ¿cál dos seguintes procedementos é INCORRECTO? ",
+        "respuesta" : "Administrar 2-3 litros de soro salino hipertónico",
+        "incorrecta1" : "Obter inmediatamente unha mostra de sangue para a determinación de cortisol",
+        "incorrecta2" : "Administrar dexametasona intravenosa ",
+        "incorrecta3" : "Administrar hidrocortisona intravenosa",
+        "incorrecta4" : "Monitorizar frecuentemente os electrólitos séricos."
+    },
+    {
+        "pregunta" : "En relación ca hipocalcemia é FALSO que:",
+        "respuesta" : "O hipoparatiroidismo autoinmune poda formar parte da síndrome poliglandular autoinmune tipo 2 ",
+        "incorrecta1" : "Na insuficiencia renal crónica a PTH adoite estar alta.",
+        "incorrecta2" : "Unha transfusión masiva de sangue poda ser causa dela.",
+        "incorrecta3" : "A alcalose poda causar diminución do calcio iónico",
+        "incorrecta4" : "Poda observarse na sepsis grave "
+    },
+    {
+        "pregunta" : "Un home de 49 anos acude a Urxencias por tetania nas mans. Na exploración física destaca: broncoespasmo na auscultación pulmonar e signos de Chvostek e Trousseau. Ten un calcio sérico de 6.1 mg/dL, unha albúmina de 4.5 mg/dL e un magnesio de 2.0 mg/dL [RN: 1.7-2.2]. ¿Cómo trataría a este doente?",
+        "respuesta" : "Gluconato cálcico intravenoso ",
+        "incorrecta1" : "Cloruro cálcico intravenoso ",
+        "incorrecta2" : "Carbonato cálcico oral e calcitriol oral",
+        "incorrecta3" : "Carbonato cálcico oral e ergocolecalciferol oral ",
+        "incorrecta4" : "Cinacalcet"
+    },
+    {
+     "pregunta" : "Entre as que se citan, ¿cal éunha alteración electrocardiográfica que pode aparecer na hipocalcemia grave?",
+     "respuesta" : "Inversión da onda T ",
+     "incorrecta1" : " Prolongación de segmento PR ",
+     "incorrecta2" : "Ensanchamiento do QRS ",
+     "incorrecta3" : "Acortamiento do intervalo QT ",
+     "incorrecta4" : "Ausencia de onda P"    
+    },
+    {
+        "pregunta" : "Un home de 31 anos presenta nun análisis de rutina una calcio sérico de 10.9 mg/dL, cunha albúmina de 4.0 mg/dL. Entre os seus antecedentes comenta co seu pai tamén ten o calcio elevado. As concentracións de PTH están elevadas e a calciuria de 24 horas foi de 50 mg/24 horas [RN: 100-300]. ¿Cál debería ser o se seguinte paso na avaliación de este doente?",
+        "respuesta" : "Solicitar a secuenciación do xene CASR (que codifica para calcum-sensing receptor)",
+        "incorrecta1" : "Solicitar niveis plasmáticos de calcitriol",
+        "incorrecta2" : "Solicitar unha gammagrafía de paratiroides",
+        "incorrecta3" : "Solicitar unha ecografia cervical",
+        "incorrecta4" : "Solicitar nivels de PTHrp"
+    },
+    {
+        "pregunta" : "Un Individuo de 81 anos presenta una calclo corrixido de 10.7 mg/dL, uns nivels de PTH de 110 pg/mL [RN:10-55], unha calciuria de 24 horas de 310 mg/dL, unha gammagrafía de paratiroides na que non se identifican lesións e un FGE >60 ml/min/1.73 m2, ¿Cál seria o abordaxe terapéutico inmediato?",
+        "respuesta" : "Aconsellar unha axeitada hidratación oral",
+        "incorrecta1" : "Ingreso hospitalario para hidratación intravenosa",
+        "incorrecta2" : "Bifosfonatos orais",
+        "incorrecta3" : "Cinacalcet",
+        "incorrecta4" : "Remitir a Cirurxía para programar paratiroidectomia"
+    },
+    {
+        "pregunta" : "En relación a Neoplasia Endocrina Múltiple tipo 1, é correcto que:",
+        "respuesta" : "Afecta por igual a homes ca mulleres ",
+        "incorrecta1" : "Os adenomas hipofisarios son o tipo de neoplasias máis frecuentes",
+        "incorrecta2" : "As variantes patóxenas máis frecuentes atópanse no xene CDKN1B",
+        "incorrecta3" : "As manifestacións clínicas adoitan aparecer xeralmente na segunda década da vida",
+        "incorrecta4" : "a e d son correctas"
+    },
+    {
+        "pregunta" : "¿ Qué alteración bioquímica NON esperaría atopar nun hiperaldosteronismo primario?",
+        "respuesta" : "Acidose metabólica e Cociente aldosterona: ARP menor de 25",
+        "incorrecta1" : "Acidose metabólica",
+        "incorrecta2" : "Renina plasmática baixa",
+        "incorrecta3" : "Hipokaliemia",
+        "incorrecta4" : "Cociente aldosterona: ARP menor de 25"
+    },
+    {
+        "pregunta" : "En relación co test de infusión de salino:",
+        "respuesta" : "Un valor de aldosterona maior de 10 ng/dL tras a expansión de volume é suxestivo de producción autónoma de aldosterona",
+        "incorrecta1" : "Utilizase para diagnosticar o hiperaldosteronismo secundario",
+        "incorrecta2" : "So permite diagnosticar adenomas productores de aldosterona",
+        "incorrecta3" : "So permite diagnosticar adenomas productores de aldosterona e  Un valor de aldosterona maior de 10 ng/dL tras a expansión de volume é suxestivo de producción autónoma de aldosterona son correctas",
+        "incorrecta4" : "Todas son correctas"
+    },
+    {
+        "pregunta" : "Na hiperplasia suprarrenal bilateral idiopática, é FALSO que",
+        "respuesta" : "A supraadrenalectomía corrixa xeralmente a hipertensión arterial",
+        "incorrecta1" : "A supraadrenalectomia corrixa xeralmente a hipopotasemia",
+        "incorrecta2" : "O antihipertensivo de elección sexa a espironolactona ou a eplerenona",
+        "incorrecta3" : "A espironolactona poda causar xinecomastia",
+        "incorrecta4" : "A amilorida poda ser unha alternativa no tratamento da hipertensión arterial"
+    },
+    {
+        "pregunta" : "¿Cál dos que se citan NON é un síntoma/signo que esperaría atopar nun doente cun feocromocitoma-paraganglioma?",
+        "respuesta" : " Hipoglucemia",
+        "incorrecta1" : "Hipotensión postural",
+        "incorrecta2" : "Cefalea",
+        "incorrecta3" : "Palidez",
+        "incorrecta4" : " Palpitacións"
+    },
+    {
+        "pregunta" : "En relación ca determinación de catocolaminas/metanefrinas no diagnóstico dun feocromocitoma-paraganglioma, é FALSO que:",
+        "respuesta" : "A elevación da normetanefrina en plasma sexa especilica de paragangliomas de cabeza e pescozo",
+        "incorrecta1" : "O estrés poda interferir nos resultados.",
+        "incorrecta2" : "Os ouriños deban recollerse nun contenedor acidificado e protoxido da luz",
+        "incorrecta3" : "O etanol poda Interferir nos resultados",
+        "incorrecta4" : " En doentes de baixo risco sexa preferible a determinación de catecolaminas ou metanefrinas en ouriños de 24 horas."
+    },
+    {
+        "pregunta" : "En relación cas probas de imaxe no diagnóstico de localización dun feocromocitoma- paraganglioma é FALSO que:",
+        "respuesta" : "A gammagrafia con I-123 (I-131) metalodobenzilguanidina sexa a primeira técnica de imaxe de elección cando hai confirmación bioquimica",
+        "incorrecta1" : "A gammagrafía con l-123 (I-131) metaiodobenzilguanidina (MIBG) sexa especialmente útil no feocromocitoma recurrente ou metastásico.",
+        "incorrecta2" : "O rastreo con [18F]fluorodopamina PET permita detectar e localizar tanto tumores primarios en suprarrenais como extraadrenais asi como metástasis.",
+        "incorrecta3" : "O 68Ga-DOTATATE esté emerxendo como o estándar ouro das probas de imaxe funcionais.",
+        "incorrecta4" : "O rastreo con [18F]fluorodopamina PET sexa superior a MIBG na identificación de metástasis."
+    },
+    {
+        "pregunta" : "Na diabetes insípida central parcial:",
+        "respuesta" : "A osmolaridade urinaria non cambia tras deshidratación e aumenta mais dun 10% tras desmopresina esóxena.",
+        "incorrecta1" : "A osmolaridade urinaria estará aumentada tras deshidratación e aumenta máis dun 50% tras desmopresina esóxena.",
+        "incorrecta2" : "A osmolaridade urinaria non cambia tras deshidratación e non cambia tras desmopresina esoxena",
+        "incorrecta3" : "A osmolaridade urinaria non cambia tras deshidratación e aumenta menos dun 9% tras desmopresina esóxena.",
+        "incorrecta4" : "A osmolaridade urinaria aumenta tras deshidratación e aumenta menos dun 9% tras desmopresina esóxena."
+    },
+    {
+        "pregunta" : "No tratamento da diabetes insipida central é FALSO que:",
+        "respuesta" : "O tratamiento con desmopresina poda incrementar o risco de hipernatremia",
+        "incorrecta1" : "Se recomende unha dieta baixa en sal e proteínas",
+        "incorrecta2" : "O tratamento con desmopresina poda ser por via nasal ou oral",
+        "incorrecta3" : "Excepcionalmente poderían usarse tiazidas",
+        "incorrecta4" : "A desmopresina poda inducir unha intoxicación hídrica"
+    },
+    {
+        "pregunta" : "Despois da PAAF dun nódulo tiroldeo o patólogo a informa como neoplasia folicular. ¿A qué categoría diagnóstica da clasificación Bethesda corresponde?",
+        "respuesta" : "IV",
+        "incorrecta1" : "I",
+        "incorrecta2" : "II",
+        "incorrecta3" : "III",
+        "incorrecta4" : "V"
+    },
+    {
+        "pregunta" : "Un home de 45 anos presenta un nódulo tiroideo no lóbulo tiroideo dereito duns 2 cm á palpación. Vostede solicita unha ecografía cervical que é informada como nódulo tiroideo TI-RADS 4 de 27 mm. ¿Cál sería a sua actitude?",
+        "respuesta" : " Solicitar PAAF",
+        "incorrecta1": "Dalo de alta por ser un nódulo de baixo risco",
+        "incorrecta2" : "Facer seguimento ecográfico cada 6 meses",
+        "incorrecta3" : "Facer seguimento ecográfico cada 12 meses",
+        "incorrecta4" : "Remitir a cirurxía por alto risco de neoplasia maligna"
+    },
+    {
+        "pregunta" : "Entre os tipos de neoplasias de células foliculares de tiroides que se citan, ¿cál ten pior prognóstico?",
+        "respuesta" : "Carcinoma diferenciado de tiroides de alto grao",
+        "incorrecta1" : "Carcinoma oncocítico",
+        "incorrecta2" : "Tumores de tiroides de potencial maligno incerto",
+        "incorrecta3" : "Neoplasia folicular de tiroides non invasiva con características nucleares de tipo papilar",
+        "incorrecta4" : "Carcinoma papilar, variante de células altas"
+    },
+    {
+        "pregunta" : "Un home de 68 anos é diagnosticado de carcinoma papilar de tiroides de 3 cm, sen invasión de cápsula nin vasos, e con afectación metastásica ganglionar na área VI. Non presenta metástasis a distancia. ¿A que estadio tumoral corresponde este caso?",
+        "respuesta" : " II",
+        "incorrecta1" : "I",
+        "incorrecta2" : "III",
+        "incorrecta3" : "IVa",
+        "incorrecta4" : "IVb"
+    },
+    {
+        "pregunta" : "Unha muller de 32 anos é sometida a tiroidectomía dereita e itsmectomía por un nódulo tóxico. No informe anatomopatolóxico da peza cirúrxica se Informa de adenoma folicular de 4 cm e carcinoma papilar, variante hobnail de 1.3 cm, ca variante BRAF V600E. ¿Cal sería a actitude con esta dente?",
+        "respuesta" : "Remitir a Cirurxía para tiroidectomía total esquerda",
+        "incorrecta1" : "Facer seguimento con ecografia cervical, TSH e tiroglobulina cada 12 meses",
+        "incorrecta2" : "Remitir a Medicina Nuclear para completar o tratamento con I-131",
+        "incorrecta3" : "Solicitar unha TC torácica para descartar melastasis a distancia",
+        "incorrecta4" : "Dar de alta para seguimento en Atención Primaria dado que se trata dun microcarcinoma de baixo risco."
+    },
+    {
+        "pregunta" : "En novembro de 2022 a FDA ven de aprobar o Teplizumab, un anticorpo monoclonal anti-CD3 para retrasar a diabetes mellitus tipo 1 clínica. O fármaco está Indicado en individuos de 8 anos ou máis vellos en estadío 2 de diabetes mellitus tipo 1. ¿Cómo se define este estadío?",
+        "respuesta" : "Individuos asintomáticos, con múltiples autoanticorpos positivos e unha Hb Alc entre 5.7% e 6.4%",
+        "incorrecta1" : "Individuos menores de 25 anos con Hb A1c entre 5.7% e 6.4%",
+        "incorrecta2" : "Individuos asintomáticos, con glucemia normal e múltiples autoanticorpos positivos",
+        "incorrecta3" : "Individuos menores de 30 anos, con glucemia aos 120 min dunha SOG maior de 199 mg/dL.",
+        "incorrecta4" : "Individuos con clÍnica cardinal de diabetes e múltiples autoanticorpos positivos"
+    },
+    {
+        "pregunta" : "Un home de 84 anos, con diabetes mellitus tipo 2 coméntalle na sua consulta co mes anterior tivo que ser atendido en Urxencias por un traumatismo craneal en relación cunha hipoglucemia grave. O doente refírelle que ten clínica de hipoglucemia con frecuencia, fundamentalmente antes do almorzo, con valores entre 60 e 80 mg/dL. O home está a tratamento con metformina, empaglifozina (iSGLT2), sitagliptina (iDPP4) e insulina glargina (28 unidades ás 23 horas). Nunha analítica de hai 15 días o doente ten unha Hb A1c de 6.4% e un FGE de 48 ml/min/1.73 m2. ¿Cál cree que debe ser a actitude terapéutica con este doente?",
+        "respuesta"  : " Reducir a dose de insulina glargina",
+        "incorrecta1" : "Suspender a metformina xa que está en insuficiencia renal",
+        "incorrecta2" : "Insistir en que faga correctamente as colacions de media mañá e merenda para evitar as hipoglucemias",
+        "incorrecta3" : "Suspender a empaglifozina",
+        "incorrecta4" : "Non facer nada xa que os valores de glucemia que aporta o dente son normais e ten un control metabólico óptimo"
+    },
+    {
+        "pregunta"  : "En relación co diagnóstico de prediabetes ou dlabetes en adultos asintomáticos, ¿cál das seguintes aseveracións é FALSA dacordo cas guías da ADA?",
+        "respuesta" : " Debe investigarse a calquer individuo maior de 40 anos",
+        "incorrecta1" : "Debe investigarse a calquer individuo caucásico un IMC ≥ 25 kg/m2 e antecedentes personais de enfermidade cardiovascular.",
+        "incorrecta2" : "As mulleres que foron diagnosticadas de diabetes estacional deben investigarse alomemos cada 3 anos",
+        "incorrecta3" : " Os individuos cunha A1c previa ≥ 5.7% deben investigarse anualmente",
+        "incorrecta4" : "Debe investigarse a calquer individuo caucásico un IMG ≥ 25 kg/m2, e un HDL-c < 35 mg/dL"
+    },
+    {
+        "pregunta" : "Unha muller de 45 anos, cun IMC de 35 kg/m2, diagnosticada de diabetes mellitus tipo 2 e a tratamento con metformina acude a sua consulta para revisión. A doente non ten ECVA establecida, indicadores de alto risco de ECVA, Insuficiencia cardíaca ni enfermidade renal crónica. A doente ten unha Hb A1c de 7.6% e nunca tivo unha hipoglucemia e está especialmente preocupada porque non consigue perder peso. ¿Cál sería a actitude terapéutica en esta muller con respecto ao seu control metabólico sen que o custe represente un problema?",
+        "respuesta" : "Insistir nas modificacións do estilo de vida e engadir un arGLP1 e Insistir nas modificacións do estilo de vida e engadir un iSGLT2 son correctas",
+        "incorrecta1" : "Insistir exclusivamente nas modificación do estilo de vida",
+        "incorrecta2" : "Insistir nas modificacións do estilo de vida e engadir un arGLP1",
+        "incorrecta3" : "Insistir nas modificacións do estilo de vida e engadir un iSGLT2",
+        "incorrecta4" : "Insistir nas modificacións do estilo de vida e engadir un iDPP4"
+    },
+    {
+        "pregunta" : "Un home de 57 anos, con diabetes mellitus tipo 2 presenta una presión arterial confirmada de 165/103 mmHg. O doente está a tratamento con metformina, sitagliptina e rosuvastatina. O doente ten unha Hb A1c de 7.2%, un cociente albúmina: creatinina de 78 mg/g confirmado en 2 ocasións e un FGE > 60 mL/min/1.73 m2. Respecto a presión arterial, ¿cál das opcións terapéuticas que se citan é a correcta?",
+        "respuesta" : "Iniciar tratamento con IECA e clortalidona e Iniciar tratamento con ARB e un calcioantagonista dihidropiridínico son correctas",
+        "incorrecta1" : "Iniciar tratamento cun diurético",
+        "incorrecta2" : " Iniciar tratamento cun ARB",
+        "incorrecta3" : " Iniciar tratamento con IECA e clortalidona",
+        "incorrecta4" : "Iniciar tratamento con ARB e un calcioantagonista dihidropiridínico"
+    },
+    {
+        "pregunta" : " Unha muller de 83 anos, con diabetes mellitus tipo 2, nefropatía diabética cun FGE de 28 mL/min/.73 m2, retinopatía diabética proliferante panfotocoagulada e cardiopatía isquémica é remitida a su consulta por unha Нb A1c de 7.9%. Está a tratamento con insulina mezcla Regular: NPH 30/70 (20-20-20). Nega hipoglucemias. ¿Entre as que se cltan, cál sería a sua actitude terapéutica respecto so control metabólico?",
+        "respuesta" : "Non modificar o tratamento",
+        "incorrecta1" : "Pasar a un réxime de insulinización bolo-basal",
+        "incorrecta2" : "Engadir un arGLP1",
+        "incorrecta3" : "Engadir ploglitazona",
+        "incorrecta4" : "Aumentar a dosis da insulina (22-24-22)"
+    },
+    {
+        "pregunta" : " Nos doentes con diabetes tipo 2 é FALSO:",
+        "respuesta" : "Que se deba iniciar sempre terapia con aspirina a partir dos 50 anos",
+        "incorrecta1" : "Que se deba iniciar terapia con aspirina se presentan antecedentes de enfermidade cardiovascular",
+        "incorrecta2" : "Que se hai antecedentes de enfermidade cardiovascular e alerxia a aspirina débese usar clopidogrel",
+        "incorrecta3" : "Ca terapia antiplaquetaria dual é razoable durante un ano despois dunha síndrome coronaria aguda.",
+        "incorrecta4" : "Ca terapia con aspirina pode considerarse en aqueles doentes con diabetes que teñen un maior risco cardiovascular."
+    },
+    {
+        "pregunta" : "Na síndrome de Barraquer-Simons é frecuente:",
+        "respuesta" : "Co complemento C3 esté baixo",
+        "incorrecta1" : "A aparición de masas lipomatosas no pescozo",
+        "incorrecta2" : " Co fenotipo se faga aparente despois dos 30 anos",
+        "incorrecta3" : "Ca perda de texido adiposo se observe sobre todo nas extremidades inferiores",
+        "incorrecta4" : "Todas son correctas"
+    },
+    {
+        "pregunta" : "Entre os tipos de lipodistrofia que se citan, ¿en cál non é infrecuente atopar lipomas?",
+        "respuesta" : "Lipodistrofia parcial familiar tipo 2",
+        "incorrecta1" : "Lipodistrofia conxénita xeralizada tipo 1",
+        "incorrecta2" : "Sindrome de Lawrence",
+        "incorrecta3" : "Lipodistrofia generalizada adquirida",
+        "incorrecta4" : "Todas son falsas"
+    },
+    {
+        "pregunta" : "Un home de 55 anos, con dlabetes mellitus tipo 2 e a tratamento con metformina e atorvastatina 80 mg qd presenta o seguinte perfil lipídico: LDL-c 95 mg/dL, triglicéridos 145 mg/dL, HDLc: 50 mg/dL. Ademáis de insistir nos camblos de estilo de vida, ¿cál seria a sua actitude terapéutica?",
+        "respuesta"  : "Engadir ezetimibe",
+        "incorrecta1" : "Non modificar o tratamento",
+        "incorrecta2" : "Engadir un fibrato",
+        "incorrecta3" : "Engadir un secuestrador de ácidos biliares",
+        "incorrecta4" : " Asociar un Inhibidor de PCSK9"
+    },
+    {
+        "pregunta" : "Unha muller de 45 anos, con hipercolesterolemia e cardiopatía isquémica, a tratamento con rosuvastatina 40 mg e ezetimibe, ten a seguinte analítica: colesterol total 251, LDL-c 180 mg/dL, triglicéridos 200 mg/dL, HDLc: 31 mg/dL ¿Cál seria en este caso a mellor opción terapéutica?",
+        "respuesta" : "Engadir inhibidores do PCSK9",
+        "incorrecta1" : " Engadir ácido nicotínico",
+        "incorrecta2" : "Engadir fenofibrato",
+        "incorrecta3" : "Engadir secuestradores de ácidos biliares",
+        "incorrecta4" : "Engadir gemfibrozilo"
+    },
+    {
+        "pregunta" : "En relación ca teriparatida é FALSO:",
+        "respuesta" : "Que se poda administrar de por vida",
+        "incorrecta1" : "Que se corresponda ca secuencia N-terminal de 34 aminoácidos da PTH humana endóxena",
+        "incorrecta2" : "Que se poda usar no tratamiento da hipocalcemia por déficit de PTH",
+        "incorrecta3" : " Que se poda utilizar no tratamento da osteoporosis",
+        "incorrecta4" : "Que poda aumentar o risco de osteosarcomas"
+    },
+    {
+        "pregunta" : "En relación ca síndrome de Cowden é FALSO que:",
+        "respuesta" : "Se asocie a microcefalia",
+        "incorrecta1" : "Teña un patrón de herdanza autosómico dominante",
+        "incorrecta2" : "Poda asoclarse con hamartomas",
+        "incorrecta3" : "Poda asociarse con carcinoma diferenciado de tiroides",
+        "incorrecta4" : "Sexa causado por variantes do xene PTEN"
+    },
+    {
+        "pregunta" : "Entre os seguintes parámetros, indique o que cre que reflicte mellor a composición do corpo:",
+        "respuesta" : "Porcentaxe de graxa",
+        "incorrecta1" : "Indice de masa corporal",
+        "incorrecta2" : "Peso",
+        "incorrecta3" : " Indice creatinina-altura",
+        "incorrecta4" : "Altura"
+    },
+    {
+        "pregunta" : "En canto ao tratamento da obesidade, podemos afirmar:",
+        "respuesta" : "Todas son correctas",
+        "incorrecta1" : "As terapias cognitivas do comportamento son más eficaces cas visitas médicas illadas",
+        "incorrecta2"  : "Pódese obter maior éxito se o tratamento é realizado por un equipo multidisciplinar",
+        "incorrecta3" : "Un obxectivo razoable para a maioria dos doentes pode ser unha perda de peso ao redor do 10% do peso inicial que se poda manter co tempo",
+        "incorrecta4" : "As dietas hipocalóricas con baixo contido de carbohidratos requiren unha supervisión médica estreita"
+    },
+    {
+        "pregunta" : "Sinale a resposta falsa acerca da desnutrición:",
+        "respuesta" : "A perda de peso en función do tiempo non ten valor na avaliación do risco nutricional",
+        "incorrecta1" : "Debe terse en conta a presencia de inflamación e a súa intensidade",
+        "incorrecta2" : " A desnutrición inflúe negativamente na evolución clínica",
+        "incorrecta3" : "A polimedicación se asocia con maiores taxas de desnutrición",
+        "incorrecta4" : "Na súa aparición poden influir factores médicos, psicolóxicos e sociais"
+    },
+    {
+        "pregunta" : "Respecto á administración de alimentos en pacientes con disfaxia, sinale a recomendación que non debemos dar por aumentar o risco de aspiración:",
+        "respuesta" : " Siempre que se poda, coma deitado",
+        "incorrecta1" : "Espere a que a boca esté vacia antes de tomar outra cullerada de comida",
+        "incorrecta2" : " Non fale ata completar a deglución",
+        "incorrecta3" : "Tome poca cantidade dunha soa vez",
+        "incorrecta4" : "Non empregue pallas para beber"
+    },
+    {
+        "pregunta" : "Entre as seguintes ferramentas para avaliar o estado nutricional, unha está validada, e é especialmente recomendable na terceira idade. Sinale cal:",
+        "respuesta" : "MNA (Mini Nutritional Assessment)",
+        "incorrecta1" : "MUST (Malnutrition Universal. Screening Tool)",
+        "incorrecta2" : "NRS-2002 (Nutritional Risk Score-2002)",
+        "incorrecta3" : "NRI (Nutrional Risk Index)",
+        "incorrecta4" : "SNA (Short Nutritional Assessment)"
+    },
+    {
+        "pregunta" : "Na síndrome de realimentación pode aparecer todo o seguinte excepto un:",
+        "respuesta" : "Hiperfosforemia",
+        "incorrecta1" : "Hipomagnesemia",
+        "incorrecta2" : " Hipocalemia",
+        "incorrecta3" : "Trastornos cardiacos",
+        "incorrecta4" : "Edemas"
+    },
+    {
+        "pregunta" : "No seguemento un paciente diabético que sufriu un ictus, tras 3 días dende o inicio da nutrición enteral o paciente comeza a presentar diarrea líquida en número de 4 deposicións diarias. Respecto o manexo terapéutico da diarrea asociada á nutrición enteral deste paciente, ¿cál é a resposta correcta?",
+        "respuesta" : "En primeiro lugar, débese revisar a medicación concomitante",
+        "incorrecta1" : "A primera proba diagnóstica a realizar é unha colonoscopia total para descartar unha enfermidade inflamatoria intestinal",
+        "incorrecta2" : "Debemos iniciar sempre antibióticos de amplo espectro para controlar a disbacteriose intestinal que adoitan presentarlos pacientes diabéticos",
+        "incorrecta3" : "A técnica de administración da nutrición enteral non inflúe na aparición de diarrea",
+        "incorrecta4" : "O tratamento máis eficaz é a realización dunha yeyunostomia"
+    },
+    {
+        "pregunta" : " Respecto ás gastrostomías percutáneas nun doente con cancro da área ORL, cal das seguintes afirmacións é correcta?",
+        "respuesta" : " Todas son correctas",
+        "incorrecta1" : "Pódense valorar en doentes que necesitan nutrición enteral a longo prazo e teñen esperanza de vida prolongada",
+        "incorrecta2" : "Non producen irritacións nasais, farínxeas e esofáxicas, deixando libre a cavidade oro-farinxea",
+        "incorrecta3" : "Ao estar ocultas, están asociadas a menos estigmatización do doente",
+        "incorrecta4" : "Adoitan ser vías de acceso cómodas, permanentes e reversibles cun diámetro maior cás sondas nasogástricas"
+    },
+    {
+        "pregunta" : "A indicación máis frecuente de nutrición enteral na casa segundo o rexistro NADYA- SENPE é:",
+        "respuesta" : "Disfaxia de orixe neurolóxica",
+        "incorrecta1" : "Cancro colo-rectal",
+        "incorrecta2" : "Disfaxia de orixe mecánica",
+        "incorrecta3" : "Intestino curto",
+        "incorrecta4" : "Disxeusia"
+    },
+    {
+        "pregunta" : "En relación co contido da nutrición parenteral, sinale a resposta falsa:",
+        "respuesta" : "So se pode recibir nutrición parenteral durante un período máximo dun mes",
+        "incorrecta1" : "A nutrición parenteral pode fornecer todos os nutrientes necesarios",
+        "incorrecta2" : "A insulina humana regular pódese usar na mestura nutricional parenteral",
+        "incorrecta3" : "O correcto cumprimento dos protocolos de conexión e desconexión reduce o risco de infeccions",
+        "incorrecta4" : "A nutrición parenteral pódese administrar tanto nun hospital coma na casa"
+    },
+    {
+        "pregunta" : "En el hipotiroidismo secundario el ajuste de la dosis del tratamiento se realiza con:",
+        "respuesta" : "niveles de LT4",
+        "incorrecta1" : "TSH",
+        "incorrecta2" : "niveles de LT3",
+        "incorrecta3" : "todos ellos",
+        "incorrecta4" : "ninguno de ellos"
+    },
+    {
+        "pregunta" : "Paciente de 34 años embarazada de 6 semanas en analítica de rutina presenta TSH 7.2 mUl/ml (0.3-4.3) y LT4 1.4 pgr/mi (0.8-1.7) con AAT positivo déblI. ¿Cuál de las siguientes afirmaciones es falsa?",
+        "respuesta" : "se debe repetir la analítica en las semanas siguientes",
+        "incorrecta1" : "tiene un hipotiroldismo subclinico",
+        "incorrecta2" : "se necesita medicar",
+        "incorrecta3" : "se debe Iniclar una dosis entre 50-75 mcg de T4",
+        "incorrecta4" : "al estar embarazada se debe suplementar con yodo oral"
+    },
+    {
+        "pregunta" : "¿Cuál de estas afirmaciones es falsa respecto a los antitiroideos de síntesis?",
+        "respuesta" : "es muy eficaz en el tratamiento de la tiroiditis subaguda silente",
+        "incorrecta1" : "inhibe la peroxidasa tiroidea",
+        "incorrecta2" : "el efecio secundario más relevante es la agranulocitosis",
+        "incorrecta3" : "las hormonas tiroideas tardan semanas en normalizarse",
+        "incorrecta4" : "se administran por via oral"
+    },
+    {
+        "pregunta" : "Ante un hipertiroidismo primario la técnica complementaria más importante en el diagnóstico diferencial es:",
+        "respuesta" : "gammagrafia tiroidea",
+        "incorrecta1" : "ecografía tiroidea",
+        "incorrecta2" : "TAC cervical",
+        "incorrecta3" : "RNM hipotálamo hipofisaria",
+        "incorrecta4" : "PAAF"
+    },
+    {
+        "pregunta" : "¿Qué fármaco no relacionarías con la presencia de hipoglucemia?",
+        "respuesta" : "diazóxido",
+        "incorrecta1" : "insulina",
+        "incorrecta2" : "glicacida",
+        "incorrecta3" : "pentamidina",
+        "incorrecta4" : "IGF1"
+    },
+    {
+        "pregunta" : "Ante una hipoglucemia por hiperinsulinismo: la diferenciación entre insulinoma o la administración facticia de glimepirida (sulfonilurea), ¿en qué determinación de laboratorio te basarías?",
+        "respuesta" : "en la presencia de glimepirida",
+        "incorrecta1" : "en la insulina",
+        "incorrecta2" : "en la proinsulina",
+        "incorrecta3" : "en el péptido C",
+        "incorrecta4" : "beta hidroxibutirato"
+    },
+    {
+        "pregunta" : "Paciente de 20 años que acude a consulta por síntomas de hiperandrogenismo presenta un índice de Ferriman de 20 ¿Cuál es la causa más frecuente?",
+        "respuesta" : "sindrome de ovario poliquístico",
+        "incorrecta1" : "hipertricosis",
+        "incorrecta2" : "administración de anticonceptivos orales",
+        "incorrecta3" : "el índice de Ferriman es normal y no tiene nada",
+        "incorrecta4" : "hiperplasia suprarrenal congénita"
+    },
+    {
+        "pregunta" : "¿Cuál NO es tratamiento del hirsutismo?",
+        "respuesta" : "sitagliptina",
+        "incorrecta1" : "perder peso",
+        "incorrecta2" : "fotodepilación",
+        "incorrecta3" : "acetato de ciproterona",
+        "incorrecta4" : "flutemida"
+    },
+    {
+        "pregunta" : "En la cetoacidosis dlabética, ¿cudi de estas afirmaciones es falsa?",
+        "respuesta" : "Se debe administrar siempre análogos de la insulina",
+        "incorrecta1" : "Se debe administrar insulina rápida o ultrarrápida por vía iv",
+        "incorrecta2" : "Se debe buscar la causa de la cetoacidosis",
+        "incorrecta3" : "Se debe monitorizar de forma intensiva al paciente en las primeras 24-48 horas del tratamiento",
+        "incorrecta4" : " Se debe monitorizar los electrolitos sobre todo el K"
+    },
+    {
+        "pregunta" : "Paciente de 33 años sin AP de interés refiere 3 semanas de dolor cervical inicialmente derecho y posteriormente izquierdo irradiado a oído/mandíbula con febrícula y malestar general. Ante la sospecha de una tiroiditis subaguda dolorosa todos los datos pueden ser significativos menos uno:",
+        "respuesta" : "estar en el posparto",
+        "incorrecta1" : "dolor a la palpación sobre el tiroides",
+        "incorrecta2" : "aumento de la VSG",
+        "incorrecta3" : "hipertiroidismo primario leve",
+        "incorrecta4" : "gammagrafia tiroidea con captación anulada"
+    },
+    {
+        "pregunta" : "En cal dos seguintes subtipos de lipodistrofia é máis frecuente o retraso mental:",
+        "respuesta" : "Sindrome de Berardinell-Seip tipo 2",
+        "incorrecta1" : "Síndrome de Berardinelli-Seip tipo 1",
+        "incorrecta2" : "Sindrome de Köbberling",
+        "incorrecta3" : "Enfermidade de Dunnigan",
+        "incorrecta4" : "Síndrome de Barraquer-Simons"
+    },
+    {
+        "pregunta" : "¿Cuál de las siguientes características de un derrame por el pezón es más sugestiva de patología mamaria?",
+        "respuesta" : "Espontáneo",
+        "incorrecta1" : "Bilateral",
+        "incorrecta2" : "Por múltiples orificios",
+        "incorrecta3" : "Provocado",
+        "incorrecta4" : "De tipo seroso"
+    },
+    {
+        "pregunta" : "¿En qué región anatómica de la mama existe más cantidad de tejido glandular?",
+        "respuesta" : "Cuadrante súpero-externo",
+        "incorrecta1" : "Cuadrante súpero-interno",
+        "incorrecta2" : "Cuadrante infero-enterno",
+        "incorrecta3" : "Cuadrante infero-interno",
+        "incorrecta4" : "Área retroareolar"
+    },
+    {
+        "pregunta" : "¿A qué nivel corresponde un ganglio linfático situado a nivel infraclavicular?",
+        "respuesta" : "II",
+        "incorrecta1" : "I",
+        "incorrecta2" : "III",
+        "incorrecta3" : "IV",
+        "incorrecta4" : "ninguno de las anteriores"
+    },
+    {
+        "pregunta" : "¿Con que frecuencia recomendaría realizar una mamografía en una mujer ≥ 50 años?",
+        "respuesta" : "anual o bianual",
+        "incorrecta1" : "cada 5 años",
+        "incorrecta2" : "anualmente cada 3 años y si es normal cada 3 años",
+        "incorrecta3" : "anualmente cada 3 años y si es normal cada 5 años",
+        "incorrecta4" : "sólo autoexploración y no mamografia"
+    },
+    {
+        "pregunta" : "En cuál de los siguientes casos no estaría Indicada una biopsia de mama quirúrgica, después de haber realizado ya una biopsia con aguja gruesa (core)?",
+        "respuesta" : "Adenosis",
+        "incorrecta1" : "Hiperplasia atípica ductal o lobular",
+        "incorrecta2" : "Carcinoma lobular in situ",
+        "incorrecta3" : "Hiperplasia células columnares con atipia",
+        "incorrecta4" : "Discordancia mamografia-histología"
+    },
+    {
+        "pregunta": "Con respecto a la mastectomía profiláctica, cuando está correctamente indicada, ¿qué afirmación es incorrecta? ",
+        "respuesta" : "Las afirmaciones: 'Reduce la probablidad de cáncer en mujeres con alto riesgo en 90%' y 'se trata de una mastectomía simple total o subcutánea' son incorrectas",
+        "incorrecta1" : "Reduce la probablidad de cáncer en mujeres con alto riesgo en 90%",
+        "incorrecta2" : "Se trata de una mastectomía simple total o subcutánea",
+        "incorrecta3" : "Es preciso extirpar pezón-areola",
+        "incorrecta4" : "Puede hacerse una reconstrucción inmediata"
+    },
+    {
+        "pregunta" : "¿Con qué tipo de anomalía de la mama relaciona al fibroadenoma?",
+        "respuesta" : "Desarrollo lobular",
+        "incorrecta1" : "Actividad cíclica",
+        "incorrecta2" : "Involución ducal",
+        "incorrecta3" : "Involución lobular",
+        "incorrecta4" : "Desarrollo estromal"
+    },
+    {
+        "pregunta" : "Señale la afirmación incorrecta sobre los quistes de mama",
+        "respuesta" : "Su tratamiento es quirúrgico habitualmente",
+        "incorrecta1" : "Frecuencia alta (1 de 14 mujeres)",
+        "incorrecta2" : "50% múltiples o recurrentes",
+        "incorrecta3" : "Predominan en mujeres > 35 años",
+        "incorrecta4" : "Cáncer intraquístico es excepcional"
+    },
+    {
+        "pregunta" : "Con respecto a la cirugía conservadora del cáncer de mama señale la afirmación correcta",
+        "respuesta" : "Recidiva local igual a la mastectomía total",
+        "incorrecta1" : "Supervivencia igual a la mastectomía total",
+        "incorrecta2" : "Similar linfadenectomia a la mastectomía radical modificada",
+        "incorrecta3" : "Requiere empleo de radioterapia al resto de la mama",
+        "incorrecta4" : "Es obligado conseguir márgenes quirúrgicos libres de tumor"
+    },
+    {
+        "pregunta" : "Las técnicas de linfadenectomía axilar actualmente en uso en cáncer de mama incluyen los ganglios axilares de los niveles:",
+        "respuesta" : "I y II",
+        "incorrecta1" : "I",
+        "incorrecta2" : "I, II y III",
+        "incorrecta3" : " II y III",
+        "incorrecta4" : "IV"
+    },
+    {
+        "pregunta" : "Señale un músculo de la espalda muy usado en reconstrucción mamaria como colgajo pediculado:",
+        "respuesta" : "Músculo dorsal ancho",
+        "incorrecta1" : "Músculo trapecio",
+        "incorrecta2" : "Músculo dorsal largo",
+        "incorrecta3" : "Músculo subescapular",
+        "incorrecta4" : "Músculo redondo mayor"
+    },
+    {
+        "pregunta" : "En una paciente con cáncer de mama que precisa quimio y radioterapia. Señale el método de reconstrucción más apropiado:",
+        "respuesta" : "Reconstrucción inmediata o diferida con tejido autólogo",
+        "incorrecta1" : "Reconstrucción inmediata con expansor y posterior recambio por prótesis definitiva",
+        "incorrecta2" : "Reconstrucción diferida con prótesis definitiva en un tiempo",
+        "incorrecta3" : "Reconstrucción inmediata con expansor-prótesis tipo Becker",
+        "incorrecta4" : "Reconstrucción diferida con expansor-prótesis tipo Becker"
+    },
+    {
+        "pregunta" : "La radioterapia sobre la mama tiene relación directa estadisticamente significativa con una de estas complicaciones de los implantes mamarios:",
+        "respuesta" : "Contractura capsular",
+        "incorrecta1" : "Rotura del implante",
+        "incorrecta2" : "Desinflado del implante",
+        "incorrecta3" : "Infección del implante",
+        "incorrecta4" : "Rotación del implante"
+    },
+    {
+        "pregunta" : " Paciente de 45 años que acude a consulta por mastectomía conservadora hace 1 año. Cual de estos métodos reconstructivos está, en principio, contraindicado:",
+        "respuesta" : "Reconstrucción con prótesis de silicona",
+        "incorrecta1" : "Reconstrucción con ipofiling",
+        "incorrecta2" : "Reconstrucción con colgajo de latissimus dorsi + inyección de grasa",
+        "incorrecta3" : "Reconstrucción con colgajo de músculo recto anterior del abdomen",
+        "incorrecta4" : "Reconstrucción microquirúrgica con colgajo de perforante"
+    },
+    {
+        "pregunta" : " Indique cuál de las siguientes tratamiento para la obesidad mórbida ejecuta su acción por un mecanlemo exclusivamente restrictivo y no originando una desnutrición por malabsorción:",
+        "respuesta" : " Balón intragástrico de doble contomo",
+        "incorrecta1" : "Manga gástrica con derivación duodeno-ileal",
+        "incorrecta2" : "Manga gástrica con técnicas es solo restrictiva y no malabsortiva",
+        "incorrecta3" : "Pouch gástrico con derivación gastro-yeyunal en Y de Roux.",
+        "incorrecta4" : "Ninguna de las anteriores"
+    },
+    {
+        "pregunta" : "¿Cuál de los mecanismos siguiente no actúa favoreciendo la acción de pérdida de peso en la obesidad mórbida al realizar una manga gástrica (sleeve gástrico)?",
+        "respuesta" : "Evitando la absorción de hidratos de carbono en los primeros tramos del tracto",
+        "incorrecta1" : "Restricción en cantidad de la ingesta",
+        "incorrecta2" : "Disminución del apetito por inhibición de la grelina",
+        "incorrecta3" : "Evitando los fenómenos de hiperingesta",
+        "incorrecta4" : "Todos son los mecanismos que contribuyen a su acción"
+    },
+    {
+        "pregunta" : " En relación con el drenaje linfático del tiroides, ¿cuál de las siguientes afirmaciones es FALSA?:",
+        "respuesta" : "El compartimento lateral está dividido en siete niveles",
+        "incorrecta1" : " El tiroides tiene una gran riqueza de conductos linfáticos intraparenquimatosa",
+        "incorrecta2" : "El drenaje linfático del tiroides puede realizarse en las tres direcciones del espacio",
+        "incorrecta3" : "Hoy día se acepta que los linfáticos del cuello se agrupan en dos compartimentos laterales y un compartimento central",
+        "incorrecta4" : "El compartimento central está limitado por el hueso hioides por arriba, los paquetes vasculo- nerviosos del cuello a los lados y por la vena innominada (tronco venoso braquiocefálico izquierdo) por abajo"
+    },
+    {
+        "pregunta" : "Una mujer de 31 años presenta un nódulo de 3,5 cm en el lóbulo tiroideo izquierdo, que no le produce molestias locales y no manifiesta síntomas ni signos, de alteración funcional del tiroides. La TSH es de 4.6 mUl/L (0.35-5.5). En la ecografía se encuentra un nódulo tiroldeo en el lóbulo tiroideo izquierdo, marcadamente hipoecoico, sin halo, con borde irregular, vascularización central y con microcalcificaciones (TI-RADS 5), no se encuentran adenopatías patológicas en el compartimento central ni en los laterales. La citología por PAAF (Punción Aspiración con Aguja Fina), realizada bajo control ecográfico, es informada como: lesión folicular de significado indeterminado (FLUS) Bethesda III. El sigulente paso debe ser:",
+        "respuesta" : "En un Nódulo con PAAF Bethesda III se puede realizar seguimiento inicial y repetir pruebas, sin embargo, en este caso, los datos radiológicos obligan a descartar malignidad por lo que se debe realizar una tiroidectomía diagnóstica que será total izquierda con istmectomia.",
+        "incorrecta1" : "Las lesiones foliculares son benignas y no es necesario realizar más pruebas, solo seguimiento por si aumenta de tamaño y produce síntomas compresivos",
+        "incorrecta2" : "Con la cifra de TSH que presenta la paciente hay que descartar un nódulo tóxico, por lo que es necesario realizar una gammagrafia tiroidea.",
+        "incorrecta3" : "Ante la presencia de una lesión folicular la cirugía mínima que debe realizarse es una tiroidectomía total bilateral",
+        "incorrecta4" : "Antes de intervenir a cualquier paciente con un tumor folicular se debe realizar un TAC o RMN para saber la verdadera extensión de la enfermedad"
+    },
+    {
+        "pregunta" : "Una mujer de 25 años presenta un nódulo en el istmo tiroideo, la ecografía informa de un nódulo único de 42mm TI-RADS 5 y de la presencia de dos adenopatías de 15mm en el compartimento central, que tienen forma esférica, con microcalcificaciones y que han perdido el hilio graso, la PAAF del nódulo tiroideo informa de un carcinoma papilar de tiroides, Bethesda VI. ¿cuál sería el tratamiento quirúrgico?",
+        "respuesta" : "La tiroidectoría total bilateral con vaciamiento central del cuello",
+        "incorrecta1" : "Dado que la lesión se encuentra en el istmo, entre los dos lóbulos, la mejor opción es la istmectomía",
+        "incorrecta2" : " La tiroidectomia total bilateral",
+        "incorrecta3" : "La tiroidectomia total bilateral con vaciamiento central y bilateral funcional",
+        "incorrecta4" : "Tiroidectomía total con extirpación selectiva de los ganglios patológicos"
+    },
+    {
+        "pregunta" : "En el cáncer diferenciado de tiroides, los objetivos del tratamiento quirúrgico inicial incluyen los siguientes EXCEPTO:",
+        "respuesta" : "La extipación del tumor primario y de aquellos ganglios linfáticos cervicales clinicamente significativos",
+        "incorrecta1" : "Minimizar la morbilidad relacionada con el tratamiento",
+        "incorrecta2" : "Estadificar con precisión la enfermedad",
+        "incorrecta3" : "Facilitar la radioterapia con I131 (RAI) postoperatoria si corresponde.",
+        "incorrecta4" : "Minimizar el riesgo de recurrencia o metástasis y permitir un seguimiento preciso a largo plazo"
+    },
+    {
+        "pregunta" : "Un paclente de 38 años, sin antecedontes famillares de patología tiroidea, presenta un nódulo en el lóbulo tiroideo derecho de 4,5 cm con ecografía de alta sospecha de cáncer, PAAF sugestiva de carcinoma medular de tiroides y una trocalcitonina de 198 pg/ml. ¿cuál de las sigulentes actuaciones es INCORRECTA en este paciente?",
+        "respuesta" : "Después de la cirugía el tratamiento adyuvante incluye una dosis ablativa con I131 y tratamiento hormonal supresivo",
+        "incorrecta1" : "Siempre debe buscarse una mutación en la línea germinal en el protooncogén RET ya que puede representar el caso índice de una familia",
+        "incorrecta2" : "Antes de intervenir a un paciente con cáncer medular de tiroides se debe descartar la presencia de un feocromocitoma",
+        "incorrecta3" : "Si un paciente con carcinoma medular de tiroides se le diagnostica un feocromocitoma, antes de operar el carcinoma medular se debe extirpar el feocromocitoma",
+        "incorrecta4" : "En este paciente el tratamiento quirúrgico debe incluir: tiroideciomía total bilateral, vaciamiento central completo y vaciamiento funcional lateral derecho"
+    },
+    {
+        "pregunta" : "Un paciente de 32 años se presenta con un nódulo tiroideo de 2 cm, una hermana y su madre han sido operadas de un carcinoma medular de tiroides, el estudio del nódulo demuestra que se trata de un carcinoma medular. ¿Cuál de las siguientes afirmaciones es CORRECTA?:",
+        "respuesta" : "Es multicéntrico y bilateral en cerca del 90% de casos. Puede producir metástasis ganglionares muy precozmente. La cirugía terapéutica incluye: tiroidectomía total bilateral, vaciamiento central y vaciamiento funcional bilateral del cuello",
+        "incorrecta1" : "Se produce por una mutación en la línea germinal del protooncogen PET localizado en el brazo largo del cromosoma 18",
+        "incorrecta2" : "El carcinoma medular de tiroides hereditario es el tumor menos frecuente en la MEN 2a y se asocia al feocromocitoma y tumores hipofisarios",
+        "incorrecta3" : "En el carcinoma medular de tiroides hereditario, no existe una correlación entre genotipo, fenotipo, edad de presentación y agresividad",
+        "incorrecta4" : "En los pacientes que tienen la mutación, el tratamiento profiláctico debe realizarse entre los 30 y 40 años"
+    },
+    {
+        "pregunta" : "Con respecto a la neuromonitorización intraoperatoria (NMio) de los nervios laríngeos, ¿cuál de las siguientes afirmaciones es FALSA?",
+        "respuesta" : "La NMlo continua puede producir daño eléctrico al nervio, por eso es preferible la NMio intermitente",
+        "incorrecta1" : "La NMio permite registrar la actividad de las cuerdas bocales en respuesta a una estimulación eléctrica de los nervios vago (V), recurrente (R) y la rama externa del laríngeo superior (S)",
+        "incorrecta2" : "Hay dos formas de NMio, la intermitente y la continua",
+        "incorrecta3" : " La secuencia de estimulación en la NMio intermitente es, antes de la extirpación (1): V1, S1, R1; después de la extirpación (2): R2, S2, V2",
+        "incorrecta4" : "Los parámetros de más utilidad del registro electromiográfico durante la NMio son la amplitud (en μV) y la latencia (en mS)"
+    },
+    {
+        "pregunta" : "Con respecto a la autofluorescencia de las glándulas paratiroides, ¿cuál de las siguientes afirmaciones es FALSA?",
+        "respuesta" : "La autofluorescencia es útil para evitar dejar desvascularizadas las glándulas paratiroides durante la tiroidectomia",
+        "incorrecta1" : "Las glándulas paratiroides emiten fluorescencia cuando son radiadas con ondas electromagnéticas del infrarrojo cercano (NIR), con una longitud de onda de 750 a 800 nanómetros (nm)",
+        "incorrecta2" : "La fluorescencia emitida puede ser captada por un dispositivo sensible al NIR",
+        "incorrecta3" : "Las paratiroides normales presentan una autofluorescencia intensa y homogénea que contrasta con los tejidos vecinos",
+        "incorrecta4" : "En el hiperparatiroidismo, la autofluorescencia que muestran las paratiroides patológicas en menos intensa y más heterogénea que las paratiroldes normales"
+    },
+    {
+        "pregunta" : "Respecto al bocio multinodular, señale la FALSA:",
+        "respuesta" : "La mayoría de los bocios cursan con hipotiroidismo",
+        "incorrecta1" : " El crecimiento del tiroides se debe a la acción de su factor trófico, la TSH, estimulada por el déficit de síntesis de hormonas tiroideas",
+        "incorrecta2" : " Según la clasificación de la OMS, un bocio grado Il es aguel que resulta visible con el cuello en posición normal",
+        "incorrecta3" : " En el estudio del bocio se realiza determinación de TSH y ecografía cervical, pero la citología por PAAF no siempre es necesaria",
+        "incorrecta4" : "El hipertiroidismo clínico o subclínico es indicación de tiroidectomía"
+    },
+    {
+        "pregunta" : "Una mujer de 40 años con antecedente de tiroidectomía derecha por nódulo benigno 3 años atrás, presenta un nódulo sospechoso de malgnidad en el tiroides remanente, por lo que es intervenida de nuevo para completar la tiroidectomía. Unas horas tras la intervención, estando aun en la unidad de recuperación post-anestésica, la paciente presenta tumefacción creciente en el área quirúrgica, estridor y dificultad respiratoria, siendo intubada con éxito por el anestesista de guardia. ¿Cual debe ser el alguiente pasa en el dlagnóstico y tratamiento de esta paciente?",
+        "respuesta" : " Volver con la paciente al quirófano para explorar la herida, evacuar el hematoma y hacer hemostasia",
+        "incorrecta1" : "Realizar una laringoscopia para descartar parálisis bilateral de las cuerdas vocales",
+        "incorrecta2" : "Iniciar tratamiento con corticoides iv a dosis plenas",
+        "incorrecta3" : "Administrar gluconato cálcico iv y solicitar determinación de PTH",
+        "incorrecta4" : "Drenar la colección y administrar antibioterapia de amplio espectro"
+    },
+    {
+        "pregunta" : "Una mujer de 20 años acude a urgencias por astenia, náuseas y vómitos y poliuria. Se realiza una analítica urgente en la que destaca un calcio sérico de 15.2 mg/dL Tras la corrección de la hipercalcemia con hidratación y dosis bajas de turosemida, se solicita una determinación de PTH, que está elevada. ¿Cuál de las siguientes afirmaciones es CORRECTA respecto al diagnóstico y tratamiento de la paciente?",
+        "respuesta" : "Todas las afirmaciones son correctas",
+        "incorrecta1" : "Las pruebas de localización como la gammagrafia con Tc99sestamibi, PET-TC colina, la ecografía o el TC 4D solo se realizan si planeamos intervenir al paciente",
+        "incorrecta2" : "La localización preoperatoria de un adenoma paratiroideo con al menos dos pruebas concordantes nos permite un abordaje minimamente invasivo dirigido a la glándula enferma",
+        "incorrecta3" : "La posibilidad de determinación intraoperatoria de PTH nos permite un abordaje unilateral aunque las pruebas de localización no sean concordantes o solo una prueba sea positiva",
+        "incorrecta4" : "La sospecha de enfermedad multiglandular (hiperplasia), como causa del hiperparatiroidismo nos obliga a una exploración cervical bilateral"
+    },
+    {
+        "pregunta" : "¿Cuál de las siguientes afirmaciones es CORRECTA?",
+        "respuesta" : "El drenaje venoso de las glándulas paratiroides es preferentemente a través del tiroides, por lo que la hipocalcemia postoperatoria transitoria es muy habitual tras una tiroidectomía total",
+        "incorrecta1" : "La causa más frecuente de hiperparatiroldismo primario es la hiperplasia de las paratiroides",
+        "incorrecta2" : "Una biopsia intraoperatoria por congelación permite diferenciar entre hiperplasia paratiroidea y adenoma",
+        "incorrecta3" : "La localización anatómica de las paratiroides inferiores es más constante que la de las superiores, ya que descienden con el timo durante el desarrollo embriológico",
+        "incorrecta4" : "Todas las anteriores son correctas"
+    },
+    {
+        "pregunta" : "Mujer de 45 años con HTA, hirsutismo y masa adrenal de 8 cm. ¿Cuál será nuestra hipótesis diagnóstica?",
+        "respuesta" : "Carcinoma suprarrenal",
+        "incorrecta1" : "Mielolipoma",
+        "incorrecta2" : "Enfermedad de Cushing",
+        "incorrecta3" : "Feocromocitoma",
+        "incorrecta4" : "Tumor carcinoide"
+    },
+    {
+        "pregunta" : "Un hombre de 36 años presenta HTA, palpitaciones y ansiedad. Las catecolaminas en orina de 24 horas están elevadas y se identifica una tumoración suprarrenal en el TC abdominal, planteándose la adrenalectomía laparoscópica. ¿Cuál de las siguientes sería la preparación preoperatoria adecuada?",
+        "respuesta" : "Iniciar tratamiento con un alfa-bloqueante 1-2 semanas antes de la intervención, seguido de un beta-bloqueante para controlar la hipertensión arterial",
+        "incorrecta1" : "Restricción de líquidos en las 24h previas a la intervención para prevenir la insuficiencia cardiaca congestiva",
+        "incorrecta2" : "Iniciar tratamiento con un alfa-bloqueante 24h antes de la intervención",
+        "incorrecta3" : "Iniciar tratamiento con un beta-bloqueante para controlar la hipertensión arterial 1-2 semanas antes de la intervención seguido de un alfa-bloqueante 24h antes",
+        "incorrecta4" : "Iniciar tratamiento con un beta-bloqueante como en cualquier otro paciente hipertenso"
+    },
+    {
+        "pregunta" : "Un hombre de 49 años consulta por cambios en el hábito corporal, con aumento de peso, aparición de estrías rojizas en el abdomen y cara redondeada. Su familia lo encuentra más irritable y presenta hipertensión arterial. Entre las pruebas diagnósticas se realiza un TC abdominal que muestra una masa adrenal derecha de 3 cm. Respecto a la patología que el paciente presenta, señale la CORRECTA:",
+        "respuesta" : "En caso de operarse, el paciente necesitaría tratamiento sustitutivo con esteroides entre 6 y 12 meses tras la intervención",
+        "incorrecta1" : "La adrenalectomía derecha solo estaría indicada si la lesión midiera al menos 4 cm o creciese 1 cm en 1 año",
+        "incorrecta2" : "En este caso estaría indicada la exploración quirúrgica de ambas adrenales",
+        "incorrecta3" : "Antes de la intervención quirúrgica debería realizarse una biopsia de la masa adrenal guiada por TC",
+        "incorrecta4" : "Todas son correctas"
+    },
+    {
+        "pregunta" : " Respecto a las vías de acceso para la adrenalectomía, señalé la FALSA:",
+        "respuesta" : " En caso de accidente hemorrágico grave, la posición en prono facilita el control del sangrado",
+        "incorrecta1" : "La adrenalectomia abierta todavia tiene indicación en tumores muy grandes o malignos, con la intención de reducir el riesgo de rotura",
+        "incorrecta2"  : "El abordaje laparoscópico transperitoneal permite la exploración de la cavidad abdominal pero exige reposicionar al paciente en caso de adrenalectomía bilateral",
+        "incorrecta3" : " El control de la corta vena adrenal derecha en su unión con la vena cava y la necesidad de movilizar el hígado, hacen algo más compleja la adrenalectomía transperitoneal derecha que la izquierda",
+        "incorrecta4" : " El abordaje retroperitoneoscópico tiene una curva de aprendizaje más larga que el transperitoneal por la dificultad de operar en un campo muy pequeño con escasa separación entre los instrumentos"
+    },
+    {
+        "pregunta" : "Un home de 41 anos cun IMC de 32 kg/m2 e que se toma unha caña de cervexa a media mañán e dous vasos de viño na comida e na cea, cun risco cardiovascular do 2.4%, ten o seguinte pertil lipídico: colesterol total 217 mg/dL, LDLc: 120 mg/dL, HDLc: 35 mg/dL e triglicéridos 310 mg/dL. ¿Cal debe ser a actitude terapéutica inicial?",
+        "respuesta" : "'Reducir o consumo de grasas e carbohidratos simples na dieta' e 'Suspender o consumo de etanol' son correctas",
+        "incorrecta1" : "Reducir o consumo de grasas e carbohidratos simples na dieta",
+        "incorrecta2" : "Suspender o consumo de etanol",
+        "incorrecta3" : "Iniciar tratamiento con estatinas de intensidade moderada",
+        "incorrecta4" : "Iniciar tratamento con fibratos"
+    },
+    {
+        "pregunta" : "Unha muller de 59 anos, con HTA, obesidade central (IMC-34 Kg/m2), glucemia basal 110 mg/dL, un CAC de 50, antecedentes familiares de ECV precoz e un risco cardiovascular do 7.6 %, ten o seguinte perfil lipídico: Colesterol total 255 mg/dL, LDLc: 175 mg/dL, HDLc: 38 mg/dL e triglicéridos 211 mg/dL. Ademáis das modificacións no estilo de vida, entre as que se citan ¿cál debe ser o abordaxe farmacolóxico de elección?",
+        "respuesta" : "Todas son correctas",
+        "incorrecta1" : "Pravastatina 40 mg qd",
+        "incorrecta2" : "Atorvastatina 10 mg qd",
+        "incorrecta3" : "Simvastatina 20 mg qd",
+        "incorrecta4" : "Rosuvastatina 5 mg qd"
+    }
+]

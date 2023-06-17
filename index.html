@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="ISO-8859-1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Endocrino</title>
+</head>
+<body>
+    <style>
+
+        *{
+            transition: all 0.01s;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 100%;
+        }
+
+        body{
+            background: gray ;
+            padding: 0;
+            margin: 0;
+            text-align: center;
+        }
+        .contenedor{
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        .encabezado{
+            position: relative;
+            background: gainsboro;
+            width: 90%;
+            padding: 10px;
+            
+        }
+        .pregunta{
+            padding: 10px;
+        }
+        .btn{
+            background: ghostwhite;
+            width: 90%;
+            padding: 10px;
+            margin: 5px;
+        }
+        .btn:hover{
+            background: palegoldenrod;
+            cursor: pointer;
+            transform: scale(1.05);
+        }
+        .numero{
+            position: absolute;
+            opacity: 0.3;
+            top: 10px;
+            right: 10px;
+        }
+        .puntuacion{
+            padding: 10px;
+            color: yellowgreen;
+        }
+
+    </style>
+
+    <div class="contenedor">
+        <div class="puntuacion" id="puntuacion"></div>
+        <div class="encabezado">
+            <div class="numero" id="numero"></div>
+            <div class="pregunta" id="pregunta">
+            </div>
+        </div>
+        <div class="btn" id="btn1" onclick="presionar_btn(0)"></div>
+        <div class="btn" id="btn2" onclick="presionar_btn(1)"></div>
+        <div class="btn" id="btn3" onclick="presionar_btn(2)"></div>
+        <div class="btn" id="btn4" onclick="presionar_btn(3)"></div>
+        <div class="btn" id="btn5" onclick="presionar_btn(4)"></div>
+    
+        <script src="index.js"></script>
+    </div>
+</body>
+</html>
